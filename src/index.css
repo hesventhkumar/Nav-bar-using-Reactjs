@@ -1,0 +1,17 @@
+
+
+table,td,th{
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+  
+}
+
+th,td{
+  padding: 20px;
+}
+
+button{
+  border-radius:10px ;
+  background-color: rgb(98, 98, 236);
+}
